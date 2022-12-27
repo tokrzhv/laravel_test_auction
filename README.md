@@ -3,4 +3,4 @@
 - admin side created with AdminLte
 - filter created with pattern filter
 
-- working time 4 hours
+- working time 3.5 hours
