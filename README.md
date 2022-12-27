@@ -2,3 +2,5 @@
 - on the user side, you can see the list of lots and filter the list by category
 - admin side created with AdminLte
 - filter created with pattern filter
+
+- work time 4 hours
